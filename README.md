@@ -2,11 +2,12 @@
 
 ## Data
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width = "26px" style="float: left;" /> Python
-	- Python
-	    - Pandas
-	    - Numpy
-	    - Matplotlib
-	    - Seaborn
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" alt="Pandas" width = "26px" style="float: left;" /> Pandas
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" alt="Numpy" width = "26px" style="float: left;" /> Numpy
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matplotlib.svg" alt="Matplotlib" width = "26px" style="float: left;" /> Matplotlib
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/seaborn.svg" alt="Seaborn" width = "26px" style="float: left;" /> Seaborn
+
+
 	- R
 	- Excel
 	
