@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width = "26px" style="float: left;" /> CSS-3
 
 ## Workflow
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="CSS3" width = "26px" style="float: left;" /> Git <br />
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="CSS3" width = "26px" style="float: left;" /> GitHub
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width = "26px" style="float: left;" /> Git <br />
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width = "26px" style="float: left;" /> GitHub
 
 [website]: https://www.rohandawar.com/
