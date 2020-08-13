@@ -1,6 +1,7 @@
 # Greetings! I'm [Rohan Dawar][website]
 
 ## Data
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width = "26px" style="float: left;" /> Python
 	- Python
 	    - Pandas
 	    - Numpy
