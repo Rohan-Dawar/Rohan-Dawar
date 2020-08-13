@@ -6,7 +6,7 @@
 	    - Numpy
 	    - Matplotlib
 	    - Seaborn
-- [SQL][sqllogo]	
+- [SQL][sqllogo]SQL	
 	- R
 	- Excel
 
