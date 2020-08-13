@@ -2,7 +2,10 @@
 
 ## Data
 	- Python
-	     - Pandas, Numpy, Matplotlib, Seaborn
+	     - Pandas
+	     - Numpy
+	     - Matplotlib
+	     - Seaborn
 	- SQL	
 	- R
 	- Excel
