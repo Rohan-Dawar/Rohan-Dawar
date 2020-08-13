@@ -13,7 +13,7 @@
      alt="SQL"
      width = "26px"
      style="float: left;
-     margin-right: 10px;" /> SQL
+     margin-right: 60px;" /> SQL
 
 ## Web
 JavaScript[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
