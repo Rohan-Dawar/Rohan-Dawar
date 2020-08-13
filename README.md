@@ -1,8 +1,8 @@
 # Greetings! I'm [Rohan Dawar][website]
 
 ## Data
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width = "26px" style="float: left;" /> Python <br />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width = "26px" style="float: left;" /> SQL <br />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width = "26px" style="float: left;" /> Python <br />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" alt="Pandas" width = "26px" style="float: left;" /> Pandas <br />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" alt="R" width = "26px" style="float: left;" /> R <br />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg" alt="Excel" width = "26px" style="float: left;" /> Excel
