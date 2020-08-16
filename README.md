@@ -15,7 +15,7 @@
 
 ## Workflow
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" alt="Git" width = "25px" style="float: left;" /> Git <br />
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width = "25px" style="float: left;" /> GitHub
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" alt="Jupyter" width = "25px" style="float: left;" /> Jupyter <br />
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width = "25px" style="float: left;" /> GitHub <br />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" alt="Jupyter" width = "25px" style="float: left;" /> Jupyter
 
 [website]: https://www.rohandawar.com/
