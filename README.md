@@ -5,6 +5,7 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width = "25px" style="float: left;" /> Python <br />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" alt="Pandas" width = "25px" style="float: left;" /> Pandas <br />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" alt="R" width = "25px" style="float: left;" /> R <br />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" alt="R" width = "25px" style="float: left;" /> PyTorch <br />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg" alt="Excel" width = "25px" style="float: left;" /> Excel
 
 ## Web
