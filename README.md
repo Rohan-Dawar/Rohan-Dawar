@@ -21,7 +21,7 @@
 <img src="http://python-visualization.github.io/folium/_images/folium_logo.jpg" alt="Folium" width = "25px" style="float: left;" /> Folium <br />
 <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="ChartJS" width = "25px" style="float: left;" /> ChartJS <br />
 <img src="https://storage.googleapis.com/zingchart-blog/zing-content/2016/06/Zinchart-Logo-1.png" alt="ZingChart" width = "25px" style="float: left;" /> ZingChart <br />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" alt="Tableau" width = "25px" style="float: left;" /> Tableau <br />
+<img src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image" alt="Tableau" width = "25px" style="float: left;" /> Tableau <br />
 <img src="https://geopandas.org/_static/geopandas_logo_web.svg" alt="Geopandas" width = "25px" style="float: left;" /> Geopandas <br />
 
 ## Web
