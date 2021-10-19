@@ -11,8 +11,8 @@
 <img src="https://png.pngtree.com/element_our/png_detail/20181227/xml-vector-icon-png_287418.jpg" alt="XML" width = "25px" style="float: left;" /> XML
 
 ## Machine Learning
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" alt="R" width = "25px" style="float: left;" /> PyTorch <br />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikit-learn.svg" alt="SciKit Learn" width = "25px" style="float: left;" /> SciKit Learn <br />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="SciKit Learn" width = "25px" style="float: left;" /> SciKit Learn <br />
+<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width = "25px" style="float: left;" /> PyTorch <br />
 
 ## Visualization
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width = "25px" style="float: left;" /> Matplotlib <br />
