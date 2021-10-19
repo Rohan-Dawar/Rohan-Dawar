@@ -25,15 +25,15 @@
 <img src="https://geopandas.org/_static/geopandas_logo_web.svg" alt="Geopandas" width = "25px" style="float: left;" /> Geopandas <br />
 
 ## Web
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg" alt="Flask" width = "25px" style="float: left;" /> Flask <br />
+<img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" alt="Flask" width = "25px" style="float: left;" /> Flask <br />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width = "25px" style="float: left;" /> JavaScript <br />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width = "25px" style="float: left;" /> HTML-5 <br />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width = "25px" style="float: left;" /> CSS-3
 
 ## Workflow
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" alt="Git" width = "25px" style="float: left;" /> Git <br />
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width = "25px" style="float: left;" /> GitHub <br />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" alt="Jupyter" width = "25px" style="float: left;" /> Jupyter <br />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="MySQL" width = "25px" style="float: left;" /> MySQL
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width = "25px" style="float: left;" /> Git <br />
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width = "25px" style="float: left;" /> GitHub <br />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="Jupyter" width = "25px" style="float: left;" /> Jupyter <br />
+<img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySQL" width = "25px" style="float: left;" /> MySQL
 
 [website]: https://www.rohandawar.com/
