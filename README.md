@@ -8,11 +8,14 @@
 <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width = "25px" style="float: left;" /> Pandas <br />
 <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width = "25px" style="float: left;" /> R <br />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_(2019%E2%80%93present).svg/2203px-Microsoft_Office_Excel_(2019%E2%80%93present).svg.png" alt="Excel" width = "25px" style="float: left;" /> Excel <br/>
-<img src="https://png.pngtree.com/element_our/png_detail/20181227/xml-vector-icon-png_287418.jpg" alt="XML" width = "25px" style="float: left;" /> XML
+<img src="https://png.pngtree.com/element_our/png_detail/20181227/xml-vector-icon-png_287418.jpg" alt="XML" width = "25px" style="float: left;" /> XML <br />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/77/GAnalytics.svg" alt="GA" width = "25px" style="float: left;" /> Google Analytics
 
 ## Machine Learning
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="SciKit Learn" width = "25px" style="float: left;" /> SciKit Learn <br />
 <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width = "25px" style="float: left;" /> PyTorch <br />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="XG" width = "25px" style="float: left;" /> XGBoost <br />
+
 
 ## Visualization
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width = "25px" style="float: left;" /> Matplotlib <br />
