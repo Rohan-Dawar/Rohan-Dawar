@@ -1,4 +1,7 @@
 # Greetings! I'm [Rohan Dawar][website]
+#### [Jovian](http://jovian.ai/rohan-dawar)
+#### [LinkedIn](https://www.linkedin.com/in/rohan-dawar/)
+#### [My Blog](https://www.rohandawar.com/blog)
 ---
 # My Skills:
 
