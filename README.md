@@ -1,7 +1,22 @@
 # Greetings! I'm [Rohan Dawar][website]
 #### [Jovian](http://jovian.ai/rohan-dawar) | [LinkedIn](https://www.linkedin.com/in/rohan-dawar/) | [Blog](https://www.rohandawar.com/blog)
 ---
-## Projects:
+## My Projects:
+### ML Models:
+* [Predicting Wine Prices :wine_glass:](https://github.com/Rohan-Dawar/ML-Wine-Price-Prediction)
+### Scrapers:
+* [Council on Tall Buildings and Urban Habitat :cityscape:](https://github.com/Rohan-Dawar/CTBUH-scraper)
+* [Citypop: population data :earth_africa:](https://github.com/Rohan-Dawar/citypopde-dataframe)
+### Analyses:
+* [Last.fm: music listening data :headphones:](https://github.com/Rohan-Dawar/LASTFM-EDA)
+* [High Speed Rail in North America: exploring viable routes :bullettrain_side:](https://github.com/Rohan-Dawar/NAHSR)
+* [Tallest Buildings in the World :building_construction:](https://jovian.ai/rohan-dawar/zerotopandas-course-project-rohandawar)
+### Webapps:
+* [CityGuessr 🔎](https://github.com/Rohan-Dawar/city-guessr)
+* [IMDB User Profile Dashboard :clapper:](https://github.com/Rohan-Dawar/imdb-viz)
+### Other:
+* [Wikipedia Breadth First Search Algorithm: shortest path between two articles :bookmark_tabs:](https://github.com/Rohan-Dawar/wikigame)
+* [Voronoi Mapping of the Toronto Subway System](https://github.com/Rohan-Dawar/TTC-voronoi)
 
 ---
 ## My Skills:
