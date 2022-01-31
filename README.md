@@ -16,7 +16,7 @@
 * [IMDB User Profile Dashboard :clapper:](https://github.com/Rohan-Dawar/imdb-viz)
 ### Other:
 * [Wikipedia Breadth First Search Algorithm: shortest path between two articles :bookmark_tabs:](https://github.com/Rohan-Dawar/wikigame)
-* [Voronoi Mapping of the Toronto Subway System](https://github.com/Rohan-Dawar/TTC-voronoi)
+* [Voronoi Mapping of the Toronto Subway System :metro:](https://github.com/Rohan-Dawar/TTC-voronoi)
 
 ---
 ## My Skills:
