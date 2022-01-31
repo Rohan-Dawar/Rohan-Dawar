@@ -1,11 +1,10 @@
 # Greetings! I'm [Rohan Dawar][website]
-#### [Jovian](http://jovian.ai/rohan-dawar)
-#### [LinkedIn](https://www.linkedin.com/in/rohan-dawar/)
-#### [My Blog](https://www.rohandawar.com/blog)
+#### [Jovian](http://jovian.ai/rohan-dawar) | [LinkedIn](https://www.linkedin.com/in/rohan-dawar/) | [My Blog](https://www.rohandawar.com/blog)
 ---
 # My Skills:
 
 ## Data
+- numpy
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width = "25px" style="float: left;" /> SQL <br />
 <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" alt="Python" width = "25px" style="float: left;" /> Python <br />
 <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width = "25px" style="float: left;" /> Pandas <br />
