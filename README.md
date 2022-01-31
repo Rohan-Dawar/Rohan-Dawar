@@ -9,7 +9,8 @@
 ### Data
 - numpy
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width = "25px" style="float: left;" /> SQL
-<img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" alt="Python" width = "25px" style="float: left;" /> Python <br />
+&nbsp;&nbsp;
+<img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" alt="Python" width = "25px" style="float: left;" /> Python
 <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width = "25px" style="float: left;" /> Pandas <br />
 <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width = "25px" style="float: left;" /> R <br />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_(2019%E2%80%93present).svg/2203px-Microsoft_Office_Excel_(2019%E2%80%93present).svg.png" alt="Excel" width = "25px" style="float: left;" /> Excel <br/>
