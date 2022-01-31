@@ -1,7 +1,7 @@
 # Greetings! I'm [Rohan Dawar][website]
 #### [Jovian](http://jovian.ai/rohan-dawar) | [LinkedIn](https://www.linkedin.com/in/rohan-dawar/) | [Blog](https://www.rohandawar.com/blog)
 ---
-## My Projects:
+## My Projects
 ### ML Models:
 * [Predicting Wine Prices :wine_glass:](https://github.com/Rohan-Dawar/ML-Wine-Price-Prediction)
 ### Scrapers:
@@ -19,9 +19,8 @@
 * [Voronoi Mapping of the Toronto Subway System :metro:](https://github.com/Rohan-Dawar/TTC-voronoi)
 
 ---
-## My Skills:
-
-### Data
+## My Skills
+### Data:
 <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="Numpy" width="25px" style="float: left;"/> Numpy
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width = "25px" style="float: left;" /> SQL
@@ -38,13 +37,13 @@
 &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/GAnalytics.svg" alt="GA" width = "25px" style="float: left;" /> Google Analytics
 
-### Machine Learning
+### Machine Learning:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="SciKit Learn" width = "25px" style="float: left;" /> SciKit Learn &nbsp;&nbsp;
 <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width = "25px" style="float: left;" /> PyTorch &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="XG" width = "25px" style="float: left;" /> XGBoost
 
 
-### Visualization
+### Visualization:
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width = "25px" style="float: left;" /> Matplotlib &nbsp;&nbsp;
 <img src="https://files.ai-pool.com/a/21155149cb560f48f085a21264277c3c.png" alt="Seaborn" width = "25px" style="float: left;" /> Seaborn &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png" alt="Plotly" width = "25px" style="float: left;" /> Plotly &nbsp;&nbsp;
@@ -54,13 +53,13 @@
 <img src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image" alt="Tableau" width = "25px" style="float: left;" /> Tableau &nbsp;&nbsp;
 <img src="https://geopandas.org/_static/geopandas_logo_web.svg" alt="Geopandas" width = "25px" style="float: left;" /> Geopandas
 
-### Web
+### Web:
 <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" alt="Flask" width = "25px" style="float: left;" /> Flask &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width = "25px" style="float: left;" /> JavaScript &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width = "25px" style="float: left;" /> HTML-5 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width = "25px" style="float: left;" /> CSS-3
 
-### Workflow
+### Workflow:
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width = "25px" style="float: left;" /> Git &nbsp;&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width = "25px" style="float: left;" /> GitHub &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="Jupyter" width = "25px" style="float: left;" /> Jupyter &nbsp;&nbsp;
