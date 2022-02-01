@@ -2,16 +2,16 @@
 #### [Jovian](http://jovian.ai/rohan-dawar) | [LinkedIn](https://www.linkedin.com/in/rohan-dawar/) | [Blog](https://www.rohandawar.com/blog)
 ---
 ## My Projects
-### ML Models:
+### Machine Learning:
 * [Predicting Wine Prices :wine_glass:](https://github.com/Rohan-Dawar/ML-Wine-Price-Prediction)
-### Scrapers:
+### Web Scraping:
 * [Council on Tall Buildings and Urban Habitat :cityscape:](https://github.com/Rohan-Dawar/CTBUH-scraper)
 * [Citypop: population data :earth_africa:](https://github.com/Rohan-Dawar/citypopde-dataframe)
-### Analyses:
+### Exploratory Data Analysis:
 * [Last.fm: music listening data :headphones:](https://github.com/Rohan-Dawar/LASTFM-EDA)
 * [High Speed Rail in North America: exploring viable routes :bullettrain_side:](https://github.com/Rohan-Dawar/NAHSR)
 * [Tallest Buildings in the World :building_construction:](https://jovian.ai/rohan-dawar/zerotopandas-course-project-rohandawar)
-### Webapps:
+### Web-apps:
 * [CityGuessr 🔎](https://github.com/Rohan-Dawar/city-guessr)
 * [IMDB User Profile Dashboard :clapper:](https://github.com/Rohan-Dawar/imdb-viz)
 ### Other:
